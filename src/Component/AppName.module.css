@@ -1,0 +1,14 @@
+.todoHeading{
+  font-weight: 700px;
+  font-size:200px;
+  margin: 10px;
+  margin-bottom: 25px;
+  display :block;
+  width: 30vw;
+  padding: 7px;
+  border: 3px solid black;
+  border-radius: 6px;
+  background-color:rgb(120, 195, 7);
+   
+
+}

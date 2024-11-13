@@ -1,0 +1,9 @@
+.EmptyMassage{
+  display: block;
+  background-color: rgb(150, 176, 110);
+  width: 60vw;
+  border: 1px solid black;
+  border-radius: 4px;
+  margin-top: 50px;
+  padding: 7px;
+}
